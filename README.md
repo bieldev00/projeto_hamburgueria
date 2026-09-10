@@ -19,6 +19,10 @@ Projeto de cardápio interativo de uma hamburgueria, desenvolvido com HTML, CSS 
  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 <br>
 
+## Preview do projeto
+
+<img src="./assets/page image.png" />
+
 ## 📌 Observações
 
 Este projeto é um excelente exemplo de uso de:
