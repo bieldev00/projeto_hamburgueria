@@ -12,10 +12,12 @@ Projeto de cardápio interativo de uma hamburgueria, desenvolvido com HTML, CSS 
 - Imagens dos produtos com nomes e preços em destaque
 
 ## 🛠️ Tecnologias utilizadas
-
-- HTML5
-- CSS3
-- JavaScript
+<br>
+ <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+ <img src="https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white" />
+ <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+ <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<br>
 
 ## 📌 Observações
 
@@ -25,7 +27,3 @@ Este projeto é um excelente exemplo de uso de:
 - arrays e objetos em JavaScript
 - filtros e reduções de dados
 - renderização dinâmica de elementos na página
-
-## ✨ Autor
-
-Desenvolvido como parte dos projetos de estudo do DevClub.
